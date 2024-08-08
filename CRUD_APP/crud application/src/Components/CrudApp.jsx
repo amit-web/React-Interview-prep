@@ -5,7 +5,6 @@ export const CrudApp = () => {
   return (
     <div>
      <h1>crud app</h1>
-
       <UserdataForm/>
     </div>
   )
